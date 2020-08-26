@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/poi-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/poi-ooxml-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/poi-ooxml-schemas-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/testng-6.9.6.jar" sourcepath="C:/Users/Manoj.Kushwaha/.m2/repository/org/testng/testng/6.9.6/testng-6.9.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/All_Selenium_Jars_File/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Selenium/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

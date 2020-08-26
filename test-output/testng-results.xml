@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Properties file initialized.......]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot taken successfully ----- ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12662" started-at="2019-09-20T11:29:51Z" finished-at="2019-09-20T11:30:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12662" started-at="2019-09-20T11:29:51Z" finished-at="2019-09-20T11:30:03Z">
+      <class name="test_package.DoLogin">
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:test_package.DoLogin@5677323c]" name="doLogin" duration-ms="6488" started-at="2019-09-20T16:59:51Z" finished-at="2019-09-20T16:59:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Screenshot taken successfully ----- ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test_package.DoLogin@5677323c]" name="tearDown" is-config="true" duration-ms="6160" started-at="2019-09-20T16:59:57Z" finished-at="2019-09-20T17:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test_package.DoLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
